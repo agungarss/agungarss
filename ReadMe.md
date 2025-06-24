@@ -1,5 +1,38 @@
-# 💫 About Me:
-hai
+# 👨‍💻 Gung Aris
+
+Hi, I’m Gung Aris — a passionate student currently pursuing a degree in **Information Management** at **Politeknik Negeri Bali**. My academic focus and personal interests revolve around **web development**, **mobile applications**, and **database systems**.
+
+---
+
+## 🛠 Tech Stack & Interests
+
+- 🌐 Web Development: HTML, CSS, JavaScript, PHP  
+- 📱 Mobile Development: Flutter (Dart)  
+- 💾 Database: MySQL, ERD Design  
+- ☕ Object-Oriented Programming: Java  
+- 📊 Data Visualization: Tables, Charts, Polygons, Ogives  
+- 🎨 UI/UX Front-End Focus
+
+---
+
+## 🏆 Project Highlights
+
+- 🥈 **Nusantara Journey** – 2nd Place Front-End Competition Winner  
+  A cultural tourism website showcasing the diversity of Indonesia’s heritage using modern UI/UX practices.
+
+- 💼 **Digital Finance Tracker** – A PHP-based website for managing daily income and expenses.
+
+- 💊 **Pharmacy Information System** – Designed a complete database structure with ERD and table relationships.
+
+- 📱 **Flutter CRUD App** – A mobile app integrated with MySQL backend, featuring real-time CRUD functionality.
+
+---
+
+## 🎯 Goals
+
+To become a competent and adaptable developer who creates impactful, user-centered digital products — especially those that support Indonesia’s digital growth and cultural values.
+
+---
 
 
 ## 🌐 Socials:

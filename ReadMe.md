@@ -58,3 +58,5 @@ To become a competent and adaptable developer who creates impactful, user-center
 [![](https://visitcount.itsvg.in/api?id=agungarss&icon=4&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake gif](https://github.com/agungarss/agungarss/blob/output/github-snake-dark.svg)

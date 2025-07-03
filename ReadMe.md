@@ -1,6 +1,6 @@
 # 👨‍💻 Gung Aris
 
-Hi, I’m Gung Aris — a passionate student currently pursuing a degree in **Information Management** at **Politeknik Negeri Bali**. My academic focus and personal interests revolve around **web development**, **mobile applications**, and **database systems**.
+Hi, I’m Gung Aris — a passionate student currently pursuing a degree in **Informatics Management** at **Politeknik Negeri Bali**. My academic focus and personal interests revolve around **web development**, **mobile applications**, and **database systems**.
 
 ---
 

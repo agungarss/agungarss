@@ -6,11 +6,10 @@ Hi, I’m Gung Aris — a passionate student currently pursuing a degree in **In
 
 ## 🛠 Tech Stack & Interests
 
-- 🌐 Web Development: HTML, CSS, JavaScript, PHP  
+- 🌐 Web Development: HTML, CSS, JavaScript, PHP
 - 📱 Mobile Development: Flutter (Dart)  
-- 💾 Database: MySQL, ERD Design  
+- 💾 Database: MySQL, ERD Design
 - ☕ Object-Oriented Programming: Java  
-- 📊 Data Visualization: Tables, Charts, Polygons, Ogives  
 - 🎨 UI/UX Front-End Focus
 
 ---
